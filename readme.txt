@@ -52,7 +52,7 @@ If you have used a custom Admin path then please place all files from '/upload/a
 INSTALL
 -------
 1) Upload the contents of the 'Upload' directory to the root of your OpenCart site.
-2) Login to your OpenCart admin, go to the Extensions -> Modules page, and click 'Install' next to 'Piwik OpenCart Ecommerce mod'.
+2) Go to the Extensions -> Modules page, and click 'Install' next to 'Piwik OpenCart Ecommerce mod'.
 3) After install, click 'Edit' next to 'Piwik', and on the settings page enter the details about your site and the Piwik installation;
 
 a) "Piwik installation URL" - This is the full url to your Piwik installation (without 'http://'). e.g. "www.example.com/piwik/".
